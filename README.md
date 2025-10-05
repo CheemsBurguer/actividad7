@@ -25,7 +25,7 @@
 **Reflexión del tema (mínimo 50 palabras):**
 
 
-  Los intents son una funcionalidad de gran ayuda a la hora de desarrollar aplicaciones Android, permitiendonos usar aplicaciones externas a la nuestra. Esto nos permite evitar duplicar funcionalidades y le ofrecen al usuario una experiencia más fluida al usar nuestra aplicación.
+  Los intents son una funcionalidad de gran ayuda a la hora de desarrollar aplicaciones Android, permitiendonos usar aplicaciones externas a la nuestra. Esto nos permite evitar duplicar funcionalidades y le ofrecen al usuario una experiencia más fluida al usar nuestra aplicación. Dominar el uso de Intents es esencial para lograr desarrollar aplicaciones modernas, ligeras y eficientes.
 
 
 ## 📸 Capturas de Pantalla
